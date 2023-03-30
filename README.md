@@ -136,4 +136,5 @@ This work was partly supported by Institute for Information communications Techn
 
 · Malas métricas en datasets unbalanced: [Issue #82](https://github.com/thangvubk/SoftGroup/issues/82#issuecomment-1170563541)
 
+· Cómo seleccionar label weights en unbalanced data: [Issue #128](https://github.com/thangvubk/SoftGroup/issues/128)
 
