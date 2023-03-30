@@ -130,3 +130,10 @@ If you find our work helpful for your research. Please consider citing our paper
 Code is built based on [HAIS](https://github.com/hustvl/HAIS), [PointGroup](https://github.com/dvlab-research/PointGroup), and [spconv](https://github.com/traveller59/spconv)
 
 This work was partly supported by Institute for Information communications Technology Planning Evaluation (IITP) grant funded by the Korea government (MSIT) (2021-0-01381, Development of Causal AI through Video Understanding, and partly supported by Institute of Information \& Communications Technology Planning \& Evaluation (IITP) grant funded by the Korea government (MSIT) (No. 2019-0-01371, Development of brain-inspired AI with human-like intelligence).
+
+
+## NOTAS ÚTILES
+
+· Malas métricas en datasets unbalanced: [Issue #82](https://github.com/thangvubk/SoftGroup/issues/82#issuecomment-1170563541)
+
+
