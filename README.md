@@ -138,3 +138,4 @@ This work was partly supported by Institute for Information communications Techn
 
 · Cómo seleccionar label weights en unbalanced data: [Issue #128](https://github.com/thangvubk/SoftGroup/issues/128)
 
+· "We use a data repeat factor to avoid data loading time between epochs": [Issue #60](https://github.com/thangvubk/SoftGroup/issues/60#issuecomment-1126626209)
